@@ -1,0 +1,11 @@
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.csprojAssemblyReference.cache
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.csproj.CoreCompileInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.AssemblyInfoInputs.cache
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.AssemblyInfo.cs
+/Users/erikgrove/Desktop/code/Repositories/PingPong/bin/Debug/netcoreapp2.2/PingPong.deps.json
+/Users/erikgrove/Desktop/code/Repositories/PingPong/bin/Debug/netcoreapp2.2/PingPong.runtimeconfig.json
+/Users/erikgrove/Desktop/code/Repositories/PingPong/bin/Debug/netcoreapp2.2/PingPong.runtimeconfig.dev.json
+/Users/erikgrove/Desktop/code/Repositories/PingPong/bin/Debug/netcoreapp2.2/PingPong.dll
+/Users/erikgrove/Desktop/code/Repositories/PingPong/bin/Debug/netcoreapp2.2/PingPong.pdb
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.dll
+/Users/erikgrove/Desktop/code/Repositories/PingPong/obj/Debug/netcoreapp2.2/PingPong.pdb
